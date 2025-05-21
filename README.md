@@ -5,8 +5,9 @@ This is the official implementation of the paper [Promptus: Can Prompts Streamin
 ![teaser1](docs/imgs/main_pic.png)
 
 <div style="text-align: center;">
+  <img src="docs/imgs/uvg_demo.gif" width="1024">
   <img src="docs/imgs/sky_demo.gif" width="1024">
-  <p><strong>The original video &nbsp;&nbsp;VS &nbsp;&nbsp;The video regenerated from inverse prompts</strong></p>
+  <p><strong>The original video &nbsp;&nbsp;VS &nbsp;&nbsp;The video regenerated from inverse prompts (ours)</strong></p>
 </div>
 
 &nbsp;
