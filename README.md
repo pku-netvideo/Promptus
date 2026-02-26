@@ -1,6 +1,8 @@
 # Promptus: Representing Real-World Video as Prompts for Video Streaming
 
-This is the official implementation of the paper [Promptus: Can Prompts Streaming Replace Video Streaming with Stable Diffusion](https://arxiv.org/abs/2405.20032), which represents real-world videos with a series of "prompts" for delivery and employs Stable Diffusion to generate pixel-aligned videos at the receiver.
+🔥 **Accepted to AAAI 2026 as an Oral Presentation!** 🔥
+
+This is the official implementation of the paper [Promptus: Can Prompts Streaming Replace Video Streaming](https://arxiv.org/abs/2405.20032), which represents real-world videos with a series of "prompts" for delivery and employs Stable Diffusion to generate pixel-aligned videos at the receiver.
 
 ![teaser1](docs/imgs/main_pic.png)
 
@@ -14,12 +16,14 @@ This is the official implementation of the paper [Promptus: Can Prompts Streamin
 
 *To start, it is recommended to run the `'Real-time Generation`' with the provided pre-trained prompts, as it is the simplest way to experience Promptus.
 
-*The inversion code will be open-sourced immediately after publication. If you need it before that, please email `jiangkai.wu@stu.pku.edu.cn` with the following information:
+~~*The inversion code will be open-sourced immediately after publication. If you need it before that, please email `jiangkai.wu@stu.pku.edu.cn` with the following information:~~
 
-- Your name, title, affilation and advisor (if you are currently a student)
-- Your intended use of the code
+- ~~Your name, title, affilation and advisor (if you are currently a student)~~
+- ~~Your intended use of the code~~
 
-I will promptly send you the inversion code. Before requesting the inversion code, the current repository's code is enough to experience the real-time generation.
+~~I will promptly send you the inversion code. Before requesting the inversion code, the current repository's code is enough to experience the real-time generation.~~
+
+*The inversion code has been updated to the repository. If you have any questions, please contact: `jiangkai.wu@stu.pku.edu.cn`.
 
 ## Inversion
 ### (0) Getting Started

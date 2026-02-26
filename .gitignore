@@ -6,5 +6,3 @@ __pycache__
 *.onnx
 docs/imgs/sky
 docs/imgs/uvg
-inversion.py
-lossbuilder.py
